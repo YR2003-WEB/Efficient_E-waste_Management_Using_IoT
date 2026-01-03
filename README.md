@@ -35,10 +35,6 @@ This project presents an IoT-based E-Waste Management System designed to automat
 ## 📄 Documentation
 For detailed system architecture, flowcharts, results, and future enhancements, please refer to the **project report document** included in this repository.
 
-## 👨‍💻 Author
-**Yogiraj G**  
-Electronics and Communication Engineering  
-
 ---
 
 ⭐ *If you find this project useful, feel free to star the repository.*
