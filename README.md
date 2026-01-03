@@ -19,3 +19,26 @@ This project presents an IoT-based E-Waste Management System designed to automat
 - **Image Processing:** MATLAB
 - **Hardware:** Ultrasonic Sensors, Servo Motor, DC Motors, LCD
 
+
+## 🔌 System Operation
+- Ultrasonic sensors measure waste levels
+- ESP32 processes data and updates LCD display
+- Data is sent to the Blynk cloud for remote monitoring
+- Alerts are generated when bins are full
+- Servo and motors control waste movement
+
+## Hardware Setup
+
+<img width="509" height="351" alt="image" src="https://github.com/user-attachments/assets/0f314e5d-b442-45e2-b906-7f550c50d9f9" />
+
+
+## 📄 Documentation
+For detailed system architecture, flowcharts, results, and future enhancements, please refer to the **project report document** included in this repository.
+
+## 👨‍💻 Author
+**Yogiraj G**  
+Electronics and Communication Engineering  
+
+---
+
+⭐ *If you find this project useful, feel free to star the repository.*
